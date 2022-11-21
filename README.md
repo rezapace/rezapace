@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://webkumal.com/)
 <h1 align="center"><a align="center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=E0B1F7&width=220&lines=Hi+%F0%9F%91%8B%2C+I'm+Reza" alt="Typing SVG" /></a></h1>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Microbe&size=30&pause=1000&color=E0B1F7&width=500&lines=studied+at+Gunadarma" alt="Typing SVG" /></a>
 
