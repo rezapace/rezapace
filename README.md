@@ -3,7 +3,11 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Microbe&size=30&pause=1000&color=E0B1F7&width=500&lines=studied+at+Gunadarma" alt="Typing SVG" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> </p>
+<img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> &emsp; [![kumal][kumal]][kumal] 
+  
+
+
+[kumal]: https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal
 
 - 🔭 I’m currently project on [WEBKUMAL](https://webkumal.com/)
 
