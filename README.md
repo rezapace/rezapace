@@ -131,10 +131,10 @@
 </table>
 
 <div style="display: inline-block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rezapace&show_icons=true&locale=en&theme=tokyonight" alt="rezapace" width="300" height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rezapace&show_icons=true&locale=en&theme=tokyonight" alt="rezapace" width="400" height="190" />
 </div>
 <div style="display: inline-block;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight" alt="rezapace" width="300" height="150" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight" alt="rezapace" width="400" height="190" />
 </div>
 
 
