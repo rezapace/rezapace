@@ -45,10 +45,6 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -63,10 +59,6 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-      <td align="center"  width="96">
-     <a href="#alibaba cloud" target="_blank"> <img src="https://img.alicdn.com/tfs/TB1ugg7M9zqK1RjSZPxXXc4tVXa-32-32.png_.webp" alt="alibaba cloud" width="40" height="40"/> </a> 
-      <br>Alibaba Cloud
-    </td>
         <td align="center"  width="96">
      <a href="#Golang" target="_blank"> <img src="https://img.icons8.com/color/256/golang.png" alt="Golang" width="40" height="40"/> </a> 
       <br>Golang
@@ -75,6 +67,12 @@
         <td align="center"  width="96">
      <a href="#figma" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="40" height="40"/> </a> 
       <br>figma
+    </td>
+          <td align="center"  width="96">
+      <a href="#bash">
+        <img src="https://img.icons8.com/color/256/bash.png" width="48" height="48" alt="bash" />
+      </a>
+      <br>bash
     </td>
 </tr>
 <tr>
@@ -122,12 +120,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
-    </td>
-          <td align="center"  width="96">
-      <a href="#bash">
-        <img src="https://img.icons8.com/color/256/bash.png" width="48" height="48" alt="bash" />
-      </a>
-      <br>bash
     </td>
   <td align="center"  width="96">
         <a href="#powershell">
