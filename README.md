@@ -20,7 +20,9 @@
 <p align="left">
 <a href="https://twitter.com/zeck.zeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeck.zeck" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zeck.zeck.56863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zeck.zeck.56863" height="30" width="40" /></a>
+  <a href="mailto:m.rezahidayat.rh@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="mailto:m.rezahidayat.rh@gmail.com" height="40" width="40" /></a>
 </p>
+ 
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
