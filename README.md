@@ -71,6 +71,11 @@
      <a href="#Golang" target="_blank"> <img src="https://img.icons8.com/color/256/golang.png" alt="Golang" width="40" height="40"/> </a> 
       <br>Golang
     </td>
+      </td>
+        <td align="center"  width="96">
+     <a href="#figma" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="40" height="40"/> </a> 
+      <br>figma
+    </td>
 </tr>
 <tr>
     <td align="center" width="96">
@@ -101,10 +106,10 @@
         <br>Tenforflow
     </td>
        <td align="center" width="96">
-      <a href="#kali" >
-        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="kali" />
+      <a href="#linux" >
+        <img src="https://cdn.iconscout.com/icon/free/png-256/linux-3628892-3030032.png" width="48" height="48" alt="linux" />
       </a>
-      <br>Kali Linux
+      <br>Linux
     </td>
      <td align="center" width="96">
       <a href="#firebase">
@@ -123,6 +128,12 @@
         <img src="https://img.icons8.com/color/256/bash.png" width="48" height="48" alt="bash" />
       </a>
       <br>bash
+    </td>
+  <td align="center"  width="96">
+        <a href="#powershell">
+        <img src="https://img.icons8.com/color/256/powershell.png" width="48" height="48" alt="powershell" />
+      </a>
+      <br>powershell
     </td>
 </tr>
 </table>
