@@ -76,7 +76,7 @@
       <br>figma
     </td>
           <td align="center"  width="96">
-      <a href="#bash">
+      <a href="https://github.com/rezapace/LINUX">
         <img src="https://img.icons8.com/color/256/bash.png" width="48" height="48" alt="bash" />
       </a>
       <br>bash
@@ -129,7 +129,7 @@
       <br>VS Code
     </td>
   <td align="center"  width="96">
-        <a href="#powershell">
+        <a href="https://github.com/rezapace/WIN">
         <img src="https://img.icons8.com/color/256/powershell.png" width="48" height="48" alt="powershell" />
       </a>
       <br>powershell
