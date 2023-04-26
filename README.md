@@ -6,13 +6,13 @@
 
 [kumal]: https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal
 
-- 🔭 I’m currently project on [WEBKUMAL](https://webkumal.com/)
+- 💻 I’m currently project on [WEBKUMAL](https://webkumal.com/)
 
-- 🌱 I’m currently learning [Reacnative](https://reactnative.dev/)
+- 📓 I’m currently learning [Reacnative](https://reactnative.dev/)
 
 - 📝 I regularly write articles on [webkumal.com](https://webkumal.com/)
 
-- 📫 How to reach me **m.rezahidayat.rh@gmail.com**
+- 📮 How to reach me **m.rezahidayat.rh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
