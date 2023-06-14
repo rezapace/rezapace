@@ -16,20 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
   <a href="https://twitter.com/zeck.zeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeck.zeck" height="30" width="40" /></a>
-
   <a href="https://fb.com/https://www.facebook.com/zeck.zeck.56863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zeck.zeck.56863" height="30" width="40" /></a>
-  
   <a href="mailto:m.rezahidayat.rh@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="mailto:m.rezahidayat.rh@gmail.com" height="40" width="40" /></a>
-  
   <a href="https://webkumal.com/" target="blank"><img align="center" src="https://webkumal.com/storage/2022/05/LOGO-KUMAL-60-Px-.png" alt="https://webkumal.com/" height="40" width="40" /></a>
     <a href="http://rezapace.webkumal.com/" target="blank">
-  
   <a href="https://www.linkedin.com/in/reza-hidayat-6576b0271/" target="blank"><img align="center" src="https://www.liblogo.com/img-logo/li452l09c-linkedin-logo-linkedin-free-social-media-icons.png" alt="https://www.linkedin.com/in/reza hidayat-6576b0271/" height="40" width="40" /></a>
-  
-  <img align="center" src="https://i.postimg.cc/15hPkwZX/image.webp" alt="http://rezapace.webkumal.com/" height="40" width="40" style="border-radius: 100%; border: 2px solid black;"
-      href="http://rezapace.webkumal.com/" target="blank">
+ <a href="http://rezapace.webkumal.com/" target="blank"><img align="center" src="https://i.postimg.cc/15hPkwZX/image.webp" alt="http://rezapace.webkumal.com/" height="40" width="40" /></a>
 </a>
 
 </p>
