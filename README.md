@@ -22,8 +22,9 @@
   <a href="https://webkumal.com/" target="blank"><img align="center" src="https://webkumal.com/storage/2022/05/LOGO-KUMAL-60-Px-.png" alt="https://webkumal.com/" height="40" width="40" /></a>
     <a href="http://rezapace.webkumal.com/" target="blank">
   <img align="center" src="https://i.postimg.cc/15hPkwZX/image.webp" alt="http://rezapace.webkumal.com/" height="40" width="40" style="border-radius: 100%; border: 2px solid black;" />
-  
-  <img align="center" src="https://www.liblogo.com/img-logo/li452l09c-linkedin-logo-linkedin-free-social-media-icons.png" alt="https://www.linkedin.com/in/reza-hidayat-6576b0271/" height="40" width="40" style="border-radius: 100%; border: 2px solid black;" />
+
+  <a href="https://www.linkedin.com/in/reza-hidayat-6576b0271/" target="blank"><img align="center" src="https://www.liblogo.com/img-logo/li452l09c-linkedin-logo-linkedin-free-social-media-icons.png" alt="https://www.linkedin.com/in/reza-hidayat-6576b0271/" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/reza-hidayat-6576b0271/" target="blank">
 </a>
 
 </p>
