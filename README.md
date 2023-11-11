@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/DwfkrKGd/Reza-Hidayat-1.gif)](https://webkumal.com/)
 
 
-<img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> &emsp; [![kumal][kumal]][kumal]
+<img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> &emsp;
 
 
 [![Kumal](https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal)](http://webkumal.com/)
