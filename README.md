@@ -16,7 +16,7 @@
 
 
  
-<h3 align="left">bahasa dan tools yang saya bisa</h3>
+<h3 align="left">Bahasa dan alat yang dapat saya gunakan.</h3>
 
 <table align="center">
 
