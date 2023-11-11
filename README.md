@@ -6,13 +6,13 @@
 
 [kumal]: https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal
 
-- 💻 Saat ini, saya tengah fokus pada proyek WEBKUMAL.
+- 💻 Saat ini, saya tengah fokus pada proyek [WEBKUMAL.](https://webkumal.com/)
 
-- 📓 Sedang belajar Poweshell&bash secara intensif.
+- 📓 Sedang belajar [Poweshell&bash](github.com/rezapace/ps) secara intensif.
 
-- 📝 Saya rutin menulis artikel di webkumal.com.
+- 📝 Saya rutin menulis artikel di [webkumal.com.](https://webkumal.com/)
 
-- 📮 Untuk menghubungi saya, bisa melalui email di m.rezahidayat.rh@gmail.com.
+- 📮 Untuk menghubungi saya, bisa melalui email di **m.rezahidayat.rh@gmail.com**
 
 
  
