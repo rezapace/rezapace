@@ -3,11 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> &emsp; [![Kumal](https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal)](http://webkumal.com/)
 
-## Powerhsell Script
-```powershell
-irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
-```
-
 - 💻 Saat ini, saya tengah fokus pada proyek [WEBKUMAL.](https://webkumal.com/)
 
 - 📓 Sedang belajar [Poweshell&bash](github.com/rezapace/ps) secara intensif.
@@ -134,6 +129,10 @@ irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight" alt="rezapace" width="400" height="190" />
 </div>
 
+## Powerhsell Script
+```powershell
+irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
+```
 
 
 
