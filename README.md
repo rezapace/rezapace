@@ -11,7 +11,10 @@
 
 - 📮 Untuk menghubungi saya, bisa melalui email di **m.rezahidayat.rh@gmail.com**
 
-
+## Powerhsell Script
+```powershell
+irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
+```
  
 <h3 align="left">Bahasa dan alat yang dapat saya gunakan.</h3>
 
@@ -128,11 +131,3 @@
 <div style="display: inline-block;">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight" alt="rezapace" width="400" height="190" />
 </div>
-
-## Powerhsell Script
-```powershell
-irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
-```
-
-
-
