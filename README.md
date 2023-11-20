@@ -15,6 +15,11 @@
 ```powershell
 irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
 ```
+
+## Install Wsl 1 Setup
+```powershell
+   irm "https://github.com/rezapace/LINUX/raw/main/wsl.ps1" | iex
+```
  
 <h3 align="left">Bahasa dan alat yang dapat saya gunakan.</h3>
 
