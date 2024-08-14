@@ -138,5 +138,16 @@ irm "https://github.com/rezapace/ps/raw/main/wsl.ps1" | iex
 </div>
 
 
+</details>
 
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
+```
+
+### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo c9" width="20" height="20"/> install c9
+<details>
+  <summary>c9</summary>
+  
+<img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+</details>
 
