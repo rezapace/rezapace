@@ -141,7 +141,10 @@ irm "https://github.com/rezapace/ps/raw/main/wsl.ps1" | iex
 ### <img src="https://img.icons8.com/?size=100&id=QZssapzfKTry&format=png&color=000000" alt="Logo c9" width="20" height="20"/> My Project
 <details>
 
-hallo
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/rezapace/weblast_shop/blob/master/Screenshoot/1.jpg?raw=true" alt="Screenshot 1" style="width: 48%;">
+    <img src="https://github.com/rezapace/weblast_shop/blob/master/Screenshoot/2.jpg?raw=true" alt="Screenshot 2" style="width: 48%;">
+</div>
 
 </details>
 
