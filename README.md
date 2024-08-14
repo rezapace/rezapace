@@ -138,10 +138,10 @@ irm "https://github.com/rezapace/ps/raw/main/wsl.ps1" | iex
 </div>
 
 
-
 ### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo c9" width="20" height="20"/> My Project
-
 <details>
+
 hallo
+
 </details>
 
