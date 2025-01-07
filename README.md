@@ -3,14 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=rezapace&label=Profile%20views&color=0e75b6&style=flat" alt="rezapace" /> &emsp; [![Kumal](https://custom-icon-badges.demolab.com/badge/kumal-.com-blue.svg?logo=kumal)](http://webkumal.com/)
 
-- 💻 Saat ini, saya tengah fokus pada proyek [WEBKUMAL.](https://webkumal.com/)
-
-- 📓 Sedang belajar [Poweshell&bash](github.com/rezapace/ps) secara intensif.
-
-- 📝 Saya rutin menulis artikel di [webkumal.com.](https://webkumal.com/)
-
-- 📮 Untuk menghubungi saya, bisa melalui email di **m.rezahidayat.rh@gmail.com**
-
 ## Powerhsell Script
 ```powershell
 irm "https://github.com/rezapace/ps/raw/main/setup.ps1" | iex
