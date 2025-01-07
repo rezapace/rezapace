@@ -149,16 +149,6 @@ irm "https://github.com/rezapace/ps/raw/main/wsl.ps1" | iex
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/rezapace/rezapace/blob/main/Images/wedding.jpg?raw=true" alt="Screenshot 1" style="width: 48%;">
-    <img src="https://github.com/rezapace/rezapace/blob/main/Images/lms.jpg?raw=true" alt="Screenshot 2" style="width: 48%;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/rezapace/rezapace/blob/main/Images/westore1.jpg?raw=true" alt="Screenshot 1" style="width: 48%;">
-    <img src="https://github.com/rezapace/rezapace/blob/main/Images/perbankan.jpg?raw=true" alt="Screenshot 2" style="width: 48%;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/rezapace/rezapace/blob/main/Images/.jpg?raw=true" alt="Screenshot 1" style="width: 48%;">
     <img src="https://github.com/rezapace/rezapace/blob/main/Images/.jpg?raw=true" alt="Screenshot 2" style="width: 48%;">
 </div>
