@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rezapace&style=flat-square&color=red" alt="Profile Views" />
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Backend+Golang+Developer;%F0%9F%A4%96+AI+Training+Enthusiast;%F0%9F%8C%88+Full+Stack+Developer;%F0%9F%8C%B1+Always+learning+new+things&background=45%2C6DFF00%2CFF0000%2C00FF00&multiline=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Backend+Golang+Developer;AI+Training+Enthusiast;Full+Stack+Developer;Always+learning+new+things&multiline=false" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
