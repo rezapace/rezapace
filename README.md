@@ -33,18 +33,19 @@ irm "https://github.com/rezapace/ps/raw/main/wsl.ps1" | iex
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezapace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=rezapace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezapace&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezapace&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezapace&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rezapace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
