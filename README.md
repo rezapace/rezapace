@@ -26,4 +26,10 @@
 
 ---
 
-<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/rezapace">GitHub</a> · <a href="https://webkumal.com/">Website</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
+<div align="center">
+
+<sub>CONNECT WITH ME</sub>
+
+[GitHub](https://github.com/rezapace) · [Website](https://webkumal.com/) · [LinkedIn](https://www.linkedin.com/in/rezahidayatrh/) · [Threads](https://www.threads.net/@rezarh.go) · [Email](mailto:rezahidayatrh@gmail.com)
+
+</div>
