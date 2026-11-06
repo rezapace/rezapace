@@ -12,7 +12,14 @@
 
 <div align="center">
 
-**93** public repositories, **189** stars, **4,282** contributions in the last year, a longest streak of **369** days and **64** followers.
+```
++----------------------------------------------------------+
+| ﾘﾎﾟｼﾞﾄﾘ ｽﾀｰ ｺﾝﾄﾘﾋﾞｭｰｼｮﾝ ｽﾄﾘｰｸ ﾌｫﾛﾜｰ               |
+|----------------------------------------------------------|
+| 93 repos ・ 189 stars ・ 4,282 contributions (1 year)     |
+| 369-day streak ・ 64 followers                            |
++----------------------------------------------------------+
+```
 
 <img src="https://komarev.com/ghpvc/?username=rezapace&style=flat-square&color=gray" alt="Profile Views" />
 
